@@ -1,0 +1,448 @@
+Rank	Poet	Betweenness Centrality	Betweenness Centrality (legible)	Clergy?
+1	Yao He 姚合	0.034668	3466.80	No
+2	Wu Rong 吳融	0.029994	2999.40	No
+3	Li Qunyu 李群玉	0.028061	2806.10	No
+4	Guanxiu 貫休	0.025425	2542.50	Buddhist
+5	Fang Gan 方干	0.023842	2384.20	No
+6	Xu Hun 許渾	0.018185	1818.50	No
+7	Du Mu 杜牧	0.016937	1693.70	No
+8	Li Pin 李頻	0.013633	1363.30	No
+9	Zhang Hu 張祜	0.012405	1240.50	No
+10	Yin Yaofan 殷堯藩	0.012336	1233.60	No
+11	Luo Yin 羅隱	0.012243	1224.30	No
+12	Qiji 齊己	0.012057	1205.70	Buddhist
+13	Jia Dao 賈島	0.011815	1181.50	No
+14	Zheng Gu 鄭谷	0.011529	115.29	No
+15	Lu Guimeng 陸龜蒙	0.010481	104.81	No
+16	Shangyan 尚顏	0.010251	102.51	Buddhist
+17	Duan Chengshi 段成式	0.010037	100.37	No
+18	Li Shangyin 李商隱	0.008972	89.72	No
+19	Pi Rixiu 皮日休	0.008813	88.13	No
+20	Zhu Qingyu 朱慶餘	0.007104	71.04	No
+21	Yu Fu 喻鳧	0.006804	68.04	No
+22	Shen Yazhi 沈亞之	0.005914	59.14	No
+23	Gu Feixiong 顧非熊	0.005636	56.36	No
+24	Zhao Gu 趙嘏	0.00492	49.20	No
+25	Xue Neng 薛能	0.004851	48.51	No
+26	Liu Deren 劉得仁	0.004317	43.17	No
+27	Wen Tingyun 溫庭筠	0.004213	42.13	No
+28	Xiang Si 項斯	0.00409	40.90	No
+29	Zhang Qiao 張喬	0.003748	37.48	No
+30	Cao Ye 曹鄴	0.003698	36.98	No
+31	Qibai 棲白	0.003661	36.61	Buddhist
+32	Han Wo 韓偓	0.003376	33.76	No
+33	Li Deyu 李德裕	0.003247	32.47	No
+34	Wuke 無可	0.003055	30.55	Buddhist
+35	Xu Tang 許棠	0.002722	27.22	No
+36	Yong Tao 雍陶	0.002545	25.45	No
+37	Xu Ning 徐凝	0.00249	24.90	No
+38	Zhang Xiaobiao 章孝標	0.00214	21.40	No
+39	Du Xunhe 杜荀鶴	0.002119	21.19	No
+40	Ma Dai 馬戴	0.00204	20.40	No
+41	Bao Rong 鮑溶	0.001913	19.13	No
+42	Huang Tao 黃滔	0.001789	17.89	No
+43	Cui Daorong 崔道融	0.001408	14.08	No
+44	Yuanfu 元孚	0.001395	13.95	Buddhist
+45	Wang Qi 王起	0.001338	13.38	No
+46	Ouyang Gun 歐陽袞	0.001239	12.39	
+47	Wu Qiao 伍喬	0.001225	12.25	No
+48	Xue Feng 薛逢	0.001222	12.22	No
+49	Chu Sizong 儲嗣宗	0.001222	12.22	No
+50	Shi Jianwu 施肩吾	0.001221	12.21	No
+51	Wei Zhuang 韋莊	0.00121	12.10	No
+52	Xiumu 修睦	0.001208	12.08	Buddhist
+53	Li Shen 李紳	0.001131	11.31	No
+54	Cao Song 曹松	0.001087	10.87	No
+55	Zhou He 周賀	0.001083	10.83	Buddhist
+56	Li Yuan 李遠	0.000989	9.89	No
+57	Cui Pu 崔璞	0.000956	9.56	No
+58	Shen Chuanshi 沈傳師	0.000797	7.97	No
+59	Fei Guanqing 費冠卿	0.000779	7.79	No
+60	Sikong Tu 司空圖	0.000752	7.52	No
+61	Wang Zhenbai 王貞白	0.000729	7.29	No
+62	Liu Cang 劉滄	0.000682	6.82	No
+63	Meng Jian 孟簡	0.000592	5.92	
+64	Yan Xuan 顏萱	0.000492	4.92	No
+65	Zhang Pin 張蠙	0.000478	4.78	No
+66	Li Fengji 李逢吉	0.000455	4.55	
+67	Xu Yin 徐夤	0.000443	4.43	No
+68	Li Dong 李洞	0.000441	4.41	No
+69	Chen Tao 陳陶	0.000438	4.38	No
+70	Yang Jingzhi 楊敬之	0.000424	4.24	
+71	Yang Sifu 楊嗣復	0.000421	4.21	No
+72	Yang Rushi 楊汝士	0.000391	3.91	
+73	Zhang Bi 張賁	0.000373	3.73	No
+74	Yang Zhaoye 羊昭業	0.00036	3.60	No
+75	Xu Xuan 徐鉉	0.000359	3.59	No
+76	Weng Chengzan 翁承贊	0.000343	3.43	No
+77	Xuzhong 虛中	0.00029	2.90	Buddhist
+78	Zhou Pu 周朴	0.000278	2.78	No
+79	Cui Xuan 崔鉉	0.000268	2.68	No
+80	Lu Chang 陸暢	0.000261	2.61	No
+81	Zhou Yao 周繇	0.000242	2.42	No
+82	Wang Di 王滌	0.000196	1.96	No
+83	Tang Fu 唐扶	0.000184	1.84	No
+84	Li Jianxun 李建勳	0.000178	1.78	No
+85	Guangxuan 廣宣	0.000167	1.67	Buddhist
+86	Jia Chi 賈馳	0.000158	1.58	No
+87	Niu Sengru 牛僧孺	0.000142	1.42	No
+88	Tang Yue 湯悅	0.000123	1.23	No
+89	Xu Xiren 徐希仁	0.000121	1.21	No
+90	Zhong Qian 鍾蒨	0.000096	0.96	No
+91	Zhou Chi 周墀	0.000089	0.89	No
+92	Lin Kuan 林寬	0.000088	0.88	No
+93	Meng Qiu 孟球	0.000079	0.79	No
+94	Zhang Daofu 張道符	0.000079	0.79	No
+95	Wei Pu 魏樸	0.000071	0.71	No
+96	Wang Bo 王播	0.00007	0.70	No
+97	Wei Fu 魏扶	0.00007	0.70	No
+98	Liu Jia 劉駕	0.000068	0.68	No
+99	Huang Po 黃頗	0.000064	0.64	No
+100	Li Zongmin 李宗閔	0.00006	0.60	No
+101	Shen Bin 沈彬	0.000058	0.58	No
+102	Shi Guan 石貫	0.000057	0.57	No
+103	Zhang Yifang 張義方	0.000055	0.55	No
+104	Li Jingrang 李景讓	0.000052	0.52	No
+105	Zhixuan 知玄	0.000046	0.46	Buddhist
+106	Cui Yan 崔郾	0.00003	0.30	No
+107	Li Peng 李朋	0.00003	0.30	No
+108	Yang Hangong 楊漢公	0.000029	0.29	No
+109	Li Hui 李回	0.000028	0.28	No
+110	Meng Binyu 孟賓于	0.000027	0.27	No
+111	Liu Gu 劉谷	0.000026	0.26	No
+112	Li Xianyong 李咸用	0.000025	0.25	No
+113	Lu Yanrang 盧延讓	0.000024	0.24	No
+114	Han Cong 韓琮	0.000017	0.17	No
+115	Kuai Xiyi 蒯希逸	0.000016	0.16	No
+116	Li Changfu 李昌符	0.000012	0.12	No
+117	Yu Di 于頔	0.000007	0.07	No
+118	Li Xuan 厲玄	0.000007	0.07	No
+119	Li Kuo 李廓	0.000007	0.07	No
+120	Qichan 棲蟾	0.000005	0.05	Buddhist
+121	Zhou Yuanfan 周元範	0.000004	0.04	No
+122	Zhang Daogu 張道古	0.000003	0.03	No
+123	Zuo Yan 左偃	0.000003	0.03	No
+124	Liao Rong 廖融	0.000003	0.03	No
+125	Liu Geng 劉耕	0.000001	0.01	No
+126	Li Qian 李潛	0.000001	0.01	No
+	Hu Gao 胡杲	0	0.00	No
+	Ji Jiao 吉皎	0	0.00	No
+	Zheng Ju 鄭據	0	0.00	No
+	Lu Zhen 盧真	0	0.00	No
+	Zhang Hun 張渾	0	0.00	No
+	Wei Shi 韋式	0	0.00	No
+	Li Liang 李諒	0	0.00	No
+	Lu Zhen 盧貞	0	0.00	No
+	Yang Heng 楊衡	0	0.00	No
+	Cui Xuanliang 崔玄亮	0	0.00	No
+	Mou Rong 牟融	0	0.00	No
+	Liu Yanshi 劉言史	0	0.00	No
+	Xiong Rudeng 熊孺登	0	0.00	No
+	Li She 李涉	0	0.00	No
+	Pei Yizhi 裴夷直	0	0.00	No
+	Yao Hu 姚鵠	0	0.00	No
+	Sima Zha 司馬紮	0	0.00	No
+	Gao Qu 高璩	0	0.00	No
+	Sima Du 司馬都	0	0.00	No
+	Yuan Hao 袁皓	0	0.00	No
+	Zheng Renbiao 鄭仁表	0	0.00	No
+	Cui Lu 崔璐	0	0.00	No
+	Li Gu 李穀	0	0.00	No
+	Zheng Bi 鄭璧	0	0.00	No
+	Gu Yun 顧雲	0	0.00	No
+	Li Shanfu 李山甫	0	0.00	No
+	Luo Ye 羅鄴	0	0.00	No
+	Li Bo 李搏	0	0.00	No
+	Weng Tao 翁洮	0	0.00	No
+	Gao Chan 高蟾	0	0.00	No
+	Zhang Jie 章碣	0	0.00	No
+	Tang Yanqian 唐彥謙	0	0.00	No
+	Cui Tu 崔塗	0	0.00	No
+	Pei Yanyu 裴廷裕	0	0.00	No
+	Li Zhaoxiang 李昭象	0	0.00	No
+	Lu Xisheng 陸希聲	0	0.00	No
+	Wang Huan 王渙	0	0.00	No
+	Wang Jia 王駕	0	0.00	No
+	Zhang Shu 張曙	0	0.00	No
+	Yin Wengui 殷文圭	0	0.00	No
+	Yu Tanzhi 喻坦之	0	0.00	No
+	Pei Yue 裴說	0	0.00	No
+	Luo Gun 羅袞	0	0.00	No
+	Li Fang 李昉	0	0.00	No
+	Han Xizai 韓熙載	0	0.00	No
+	Li Zhong 李中	0	0.00	No
+	Bao Ying 包穎	0	0.00	No
+	Han Dingci 韓定辭	0	0.00	No
+	Li Jiaming 李家明	0	0.00	No
+	Ma Yu 馬彧	0	0.00	No
+	Sun Xian 孫峴	0	0.00	No
+	Wang Yi 王沂	0	0.00	No
+	Xiao Yu 蕭彧	0	0.00	No
+	Xie Zhongxuan 謝仲宣	0	0.00	No
+	Zhong Mo 鍾謨	0	0.00	No
+	Meng Guan 孟貫	0	0.00	No
+	Wang Kai 王鍇	0	0.00	No
+	Zhang Ge 張格	0	0.00	No
+	Zhou Xiang 周庠	0	0.00	No
+	Liu Xisou 劉羲叟	0	0.00	No
+	Xu Guangpu 徐光溥	0	0.00	No
+	Wang Yuan 王元	0	0.00	No
+	Weng Hong 翁宏	0	0.00	No
+	Yang Huizhi 楊徽之	0	0.00	No
+	Wang Yanbin 王延彬	0	0.00	No
+	Taoguang 韜光	0	0.00	Buddhist
+	Guiren 歸仁	0	0.00	Buddhist
+	Chumo 處默	0	0.00	Buddhist
+	Qiankang 乾康	0	0.00	Buddhist
+	Tanyu 曇域	0	0.00	Buddhist
+	Kuangbai 匡白	0	0.00	Buddhist
+	Bai Juyi 白居易	0	0.00	No
+	Jiang Wei 江為	0	0.00	No
+	Li Ying 李郢	0	0.00	No
+	Meng Jiao 孟郊	0	0.00	No
+	Bianguang 辯光	0	0.00	Buddhist
+	Boyan 柏巖	0	0.00	Buddhist
+	Chuyun 楚雲	0	0.00	Buddhist
+	Congyi 從益	0	0.00	Buddhist
+	Daoguang 道光	0	0.00	Buddhist
+	Ensai 圓載	0	0.00	Buddhist
+	Gaoxian 高閑	0	0.00	Buddhist
+	Guangli 廣利	0	0.00	Buddhist
+	Jiaoran 皎然	0	0.00	Buddhist
+	Jingxuan 景玄	0	0.00	Buddhist
+	Lingche 靈澈	0	0.00	Buddhist
+	Lingying 靈應	0	0.00	Buddhist
+	Moran 默然	0	0.00	Buddhist
+	Qianzhou 乾晝	0	0.00	Buddhist
+	Qingyue 清越	0	0.00	Buddhist
+	Sengche 僧徹	0	0.00	Buddhist
+	Shaoming 紹明	0	0.00	Buddhist
+	Sheng 昇	0	0.00	Buddhist
+	Wenxiu 文秀	0	0.00	Buddhist
+	Wukong 悟空	0	0.00	Buddhist
+	Wuxiang 無相	0	0.00	Buddhist
+	Xiuliang 休糧	0	0.00	Buddhist
+	Xuantai 玄泰	0	0.00	Buddhist
+	Yuanfang 圓昉	0	0.00	Buddhist
+	Yuanji 源寂	0	0.00	Buddhist
+	Yuansui 元遂	0	0.00	Buddhist
+	Yunduan 雲端	0	0.00	Buddhist
+	Zaowei 造微	0	0.00	Buddhist
+	Zhongyi 仲儀	0	0.00	Buddhist
+	Zongmi 宗密	0	0.00	Buddhist
+	Xuanyuan Ji 軒轅集	0	0.00	Daoist
+	Bai Minzhong 白敏中	0	0.00	No
+	Bi Xian 畢諴	0	0.00	No
+	Chen Qiao 陳樵	0	0.00	No
+	Di Guichang 狄歸昌	0	0.00	No
+	Du Qiu's Bride 杜秋娘	0	0.00	No
+	Feng Yanlu 馮延魯	0	0.00	No
+	Girl Who Inscribed on Three Counties Post 題三鄉驛女子	0	0.00	No
+	Han Chuo 韓綽	0	0.00	No
+	Han Yi 韓乂	0	0.00	No
+	Han Yu 韓愈	0	0.00	No
+	He Shaoyu 何紹餘	0	0.00	No
+	He Zhizhang 賀知章	0	0.00	No
+	Hou Gui 侯圭	0	0.00	No
+	Hu Fen 胡汾	0	0.00	No
+	Huang Binyu 黃賓于	0	0.00	No
+	Huang Pu 黃璞	0	0.00	No
+	Jia Kuang 賈匡	0	0.00	No
+	Jia Song 賈嵩	0	0.00	No
+	Kuai Liang 蒯亮	0	0.00	No
+	Li Bao 李褒	0	0.00	No
+	Li Du 李瀆	0	0.00	No
+	Li Fangxuan 李方玄	0	0.00	No
+	Li Gan 李甘	0	0.00	No
+	Li Hu 李縠	0	0.00	No
+	Li Maozhen 李茂貞	0	0.00	No
+	Li Ming 李溟	0	0.00	No
+	Li Pin 李玭	0	0.00	No
+	Li Su 李愬	0	0.00	No
+	Li Tunan 厲圖南	0	0.00	No
+	Li Yin 李殷	0	0.00	No
+	Li Yu 李羽	0	0.00	No
+	Li Yuan 李愿	0	0.00	No
+	Li Zhongmin 李中敏	0	0.00	No
+	Liang Zhu 梁燭	0	0.00	No
+	Linghu Chu 令狐楚	0	0.00	No
+	Linghu Huan 令狐渙	0	0.00	No
+	Liu Tui 劉蛻	0	0.00	No
+	Liu Wen 劉溫	0	0.00	No
+	Liu Xiang 劉象	0	0.00	No
+	Liu Yao 劉軺	0	0.00	No
+	Liu Yuxi 劉禹錫	0	0.00	No
+	Lu Gong 陸肱	0	0.00	No
+	Lu Hongzhi 盧弘止	0	0.00	No
+	Lu Jianqiu 盧簡求	0	0.00	No
+	Lu Tong 盧仝	0	0.00	No
+	Lu Wu 陸洿	0	0.00	No
+	Lu Xianqing 盧獻卿	0	0.00	No
+	Lu Ye 盧鄴	0	0.00	No
+	Lu Yi 陸扆	0	0.00	No
+	Pei Du 裴度	0	0.00	No
+	Pei Su 裴素	0	0.00	No
+	Pei Tan 裴坦	0	0.00	No
+	Pei Xiu 裴休	0	0.00	No
+	Princess Taihe 太和公主	0	0.00	No
+	Qian Liu 錢鏐	0	0.00	No
+	Qin Zongquan 秦宗權	0	0.00	No
+	Qiu Guangting 丘光庭	0	0.00	No
+	Ren Hui 任晦	0	0.00	No
+	Ren Wan 任畹	0	0.00	No
+	Shen Guang 沈光	0	0.00	No
+	Shen Xun 沈詢	0	0.00	No
+	Shi Xubai 史虛白	0	0.00	No
+	Song Qi 嵩起	0	0.00	No
+	Song Yuan 宋邧	0	0.00	No
+	Sun Fa 孫發	0	0.00	No
+	Sun Lu 孫璐	0	0.00	No
+	Sun Lu 孫路	0	0.00	No
+	Tang Chi 唐持	0	0.00	No
+	Tian Ying 田穎	0	0.00	No
+	Wang Jian 王建	0	0.00	No
+	Wang Jian, King of Former Shu 前蜀高祖王建	0	0.00	No
+	Wang Pu 王溥	0	0.00	No
+	Wang Shenzhi 王審知	0	0.00	No
+	Wang Xiong 王雄	0	0.00	No
+	Wang Zhifang 王直方	0	0.00	No
+	Wei Chan 韋蟾	0	0.00	No
+	Wei Chulao 韋楚老	0	0.00	No
+	Wei Guan 韋瓘	0	0.00	No
+	Wu Tui 吳蛻	0	0.00	No
+	Wu Yanbao 吳延保	0	0.00	No
+	Xing Qun 邢群	0	0.00	No
+	Xu Xiuju 徐修矩	0	0.00	No
+	Yang Fa 楊發	0	0.00	No
+	Yang Juyuan 楊巨源	0	0.00	No
+	Yang Kui 楊夔	0	0.00	No
+	Yang Zantu 楊贊圖	0	0.00	No
+	Ye Meng 葉蒙	0	0.00	No
+	Yu Xingzong 于興宗	0	0.00	No
+	Zhang Cizong 張次宗	0	0.00	No
+	Zhang Maoshu 張茂樞	0	0.00	No
+	Zhang Xifu 張希復	0	0.00	No
+	Zhao Lin 趙璘	0	0.00	No
+	Zhao Nengqing 趙能卿	0	0.00	No
+	Zheng Chuhui 鄭處誨	0	0.00	No
+	Zheng Fu 鄭符	0	0.00	No
+	Zheng Rengui 鄭仁規	0	0.00	No
+	Zheng Tian 鄭畋	0	0.00	No
+	Zheng Xun 鄭薰	0	0.00	No
+	Zhou Bao 周寶	0	0.00	No
+	Zhou Zong 周宗	0	0.00	No
+	Zhuangzi 莊子	0	0.00	No
+	Lu Bi 盧肇	0	0.00	No
+	Nan Zhuo 南卓	0	0.00	No
+	Cai Jing 蔡京	0	0.00	Buddhist
+	Qingche 清徹	0	0.00	Buddhist
+	Yu Hongjian 于鴻漸	0	0.00	Daoist
+	Huang Dongyuan 黃洞元	0	0.00	Daoist
+	Gao Man 高蔓	0	0.00	No
+	Liu Zhen 劉真	0	0.00	Deity
+	Yuan Zhen 元稹	0	0.00	No
+	Fan Ze 樊澤	0	0.00	No
+	Emperor Muzong 唐穆宗	0	0.00	No
+	Zhang Ji 張籍	0	0.00	No
+	Han Hong 韓翃	0	0.00	No
+	Li Yijian 李夷簡	0	0.00	No
+	Li Ning 李寧	0	0.00	No
+	Yan Shou 嚴綬	0	0.00	No
+	Li Guangyan 李光顏	0	0.00	No
+	Li Bo 李渤	0	0.00	No
+	Zhang Hongjing 张弘靖	0	0.00	No
+	Li Jue 李珏	0	0.00	No
+	Ma Zong 馬總	0	0.00	No
+	Cui Gong 崔珙	0	0.00	No
+	Liu Gongquan 柳公權	0	0.00	No
+	Emperor Wenzong 唐文宗	0	0.00	No
+	Emperor Wuzong 唐武宗	0	0.00	No
+	Ma Zhi 馬植	0	0.00	No
+	Yang Yuling 楊於陵	0	0.00	No
+	Li Yi 李益	0	0.00	No
+	Fan Chuanzheng 範傳正	0	0.00	No
+	Xue Ying 薛膺	0	0.00	No
+	Lu Ting 盧汀	0	0.00	No
+	Wu Dan 吳丹	0	0.00	No
+	Wang Fan 王璠	0	0.00	No
+	Song Shenxi 宋申錫	0	0.00	No
+	Du Cong 杜悰	0	0.00	No
+	Emperor Xianzong 唐憲宗	0	0.00	No
+	Zheng Han 鄭澣	0	0.00	No
+	Chen Quji 陳去疾	0	0.00	No
+	Teng Mai 滕邁	0	0.00	No
+	Xiao Jian 蕭建	0	0.00	No
+	Di Jianmo 狄兼謨	0	0.00	No
+	Cui Yue 崔約	0	0.00	No
+	Zheng Huan 鄭澣	0	0.00	No
+	Tian Qun 田群	0	0.00	No
+	Dong Wu 董武	0	0.00	No
+	Tian Zhuo 田卓	0	0.00	No
+	Cui Qi 崔杞	0	0.00	No
+	Wang Gui 王龜	0	0.00	No
+	Lin Yun 林蘊	0	0.00	No
+	Li Yu 李餘	0	0.00	No
+	Zhang Meng 張蒙	0	0.00	No
+	Han Xiang 韓湘	0	0.00	No
+	Du Guan 杜觀	0	0.00	No
+	Wei Yao 韋繇	0	0.00	No
+	Zhang Qiwu 張齊物	0	0.00	No
+	Lu Jianci 盧簡辭	0	0.00	No
+	Liu Kuanfu 劉寬夫	0	0.00	No
+	Yang Yuqing 楊虞卿	0	0.00	No
+	Huangfu Xun 皇甫荀	0	0.00	No
+	Gao Yuanyu 高元裕	0	0.00	No
+	Yuan Zongjian 元宗簡	0	0.00	No
+	Linghu Ding 令狐定	0	0.00	No
+	Hu Yu 胡遇	0	0.00	No
+	Tian Mou 田牟	0	0.00	No
+	Cui Gu 崔固	0	0.00	No
+	Li Yi 李億	0	0.00	No
+	Wang Ya 王涯	0	0.00	No
+	Li Guyan 李固言	0	0.00	No
+	Chen Biao 陳摽	0	0.00	No
+	Chen Shang 陳商	0	0.00	No
+	Yu Renwen 于人文	0	0.00	No
+	Luo Shaojing 羅劭京	0	0.00	No
+	Cui Shou 崔壽	0	0.00	No
+	Li Dingyan 李定言	0	0.00	No
+	Yuan Du 袁都	0	0.00	No
+	Liu Sanfu 劉三復	0	0.00	No
+	Xiao Fu 蕭俛	0	0.00	No
+	Lu Yuanfu 盧元輔	0	0.00	No
+	Lu Jun 盧鈞	0	0.00	No
+	Linghu Tao 令狐綯	0	0.00	No
+	Wang Maoyuan 王茂元	0	0.00	No
+	Feng Ao 封敖	0	0.00	No
+	Li Yun 李蘊	0	0.00	No
+	Shen Dan 沈單	0	0.00	No
+	Xue Dan 薛耽	0	0.00	No
+	Zheng Xiang 鄭祥	0	0.00	No
+	Han Jiang 韓絳	0	0.00	No
+	Lu Jian 盧緘	0	0.00	No
+	Xiao Mian 蕭俛	0	0.00	No
+	Chen Gu 陳嘏	0	0.00	No
+	Ding Leng 丁棱	0	0.00	No
+	Gao Tuizhi 高退之	0	0.00	No
+	Pei Fan 裴翻	0	0.00	No
+	Fan Xiang 樊驤	0	0.00	No
+	Cui Xuan 崔軒	0	0.00	No
+	Lin Zi 林滋	0	0.00	No
+	Li Xuangu 李宣古	0	0.00	No
+	Qiu Shangqing 丘上卿	0	0.00	No
+	Meng Shou 孟守	0	0.00	No
+	Tang Siyan 唐思言	0	0.00	No
+	Ge Lao 戈牢	0	0.00	No
+	Jin Houzai 金厚載	0	0.00	No
+	Wang Shenyi 王甚夷	0	0.00	No
+	Pang Yan 龐嚴	0	0.00	No
+	Zhang Gu 張固	0	0.00	No
+	Lu Shunzhi 盧順之	0	0.00	No
+	Li Na 李訥	0	0.00	No
+	Cui Yuanfan 崔元範	0	0.00	No
+	Yang Zhizhi 楊知至	0	0.00	No
+	Lu Yin 盧溵	0	0.00	No
+	Feng Yanqing 封彥卿	0	0.00	No
+	Wei Yi 韋益	0	0.00	No
+	Zheng Zhun 鄭准	0	0.00	No
+	Emperor Xuanzong 唐宣宗	0	0.00	No
