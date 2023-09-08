@@ -1,4 +1,4 @@
-# Poet-monks
+# Poet-Monks
 Code and data supporting the book _Poet-Monks: The Invention of Buddhist Poetry in Late Medieval China_ by Thomas J. Mazanec (Cornell University Press, 2024).
 
 Most of the code and data for this project has been organized by chapter. Below is the book's table of contents, with links to supporting repositories where relevant. There are no repositories for chapters 2, 3, 5, 6, and the conclusion because they are qualitative in nature and have no supporting data.
